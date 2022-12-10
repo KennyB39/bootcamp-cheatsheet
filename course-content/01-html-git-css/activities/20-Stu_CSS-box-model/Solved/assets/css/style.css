@@ -1,0 +1,27 @@
+section {
+  width: 600px;
+  height: 600px;
+  text-align: center;
+  border: 15px solid black;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;
+  /* Margin property */
+  margin: 20px;
+  /* Padding property */
+  padding: 20px;
+  /* Border property */
+  border: 9px solid darkblue;
+}
+
+/* total width of the image  */
+/* 20px (left margin) + 9px (border) + 20px (left padding) + 200px (image) + 20px (right padding) + 9px (border) + 20px (right margin)—for a total of 298px. */
+
+/* total height of the image is also 298px.  */
+
+/* the width and height of the containing box is 600px and the height is 600px, the boxes fit evenly. */
+/* width: 600px;
+  height: 600px; */
